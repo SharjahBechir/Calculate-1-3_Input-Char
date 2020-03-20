@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Calculate2</label>
+		<id>81</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Calculate2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Calculate2.jcp</path>
+		</project>
+	</projects>
+</workspace>
